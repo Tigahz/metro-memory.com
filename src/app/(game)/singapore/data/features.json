@@ -91,13 +91,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.902362,
-          1.405251
+          103.910329,
+          1.415018
         ]
       },
       "properties": {
         "id": 105,
-        "name": "Punggol",
+        "name": "Punggol Coast",
         "line": "SingaporeMRTNortheastLine",
         "order": 0
       },
@@ -113,12 +113,12 @@
         ]
       },
       "properties": {
-        "id": 121,
+        "id": 122,
         "name": "Jurong East",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 0
       },
-      "id": 121
+      "id": 122
     },
     {
       "type": "Feature",
@@ -130,12 +130,12 @@
         ]
       },
       "properties": {
-        "id": 148,
+        "id": 149,
         "name": "Woodlands North",
         "line": "CM_SingaporeMRT_tel",
         "order": 0
       },
-      "id": 148
+      "id": 149
     },
     {
       "type": "Feature",
@@ -147,12 +147,12 @@
         ]
       },
       "properties": {
-        "id": 175,
+        "id": 176,
         "name": "Choa Chu Kang",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 0
       },
-      "id": 175
+      "id": 176
     },
     {
       "type": "Feature",
@@ -164,12 +164,12 @@
         ]
       },
       "properties": {
-        "id": 194,
+        "id": 195,
         "name": "Punggol",
         "line": "SingaporeLRTPunggolLineEastLoop",
         "order": 0
       },
-      "id": 194
+      "id": 195
     },
     {
       "type": "Feature",
@@ -181,12 +181,12 @@
         ]
       },
       "properties": {
-        "id": 203,
+        "id": 204,
         "name": "Punggol",
         "line": "SingaporeLRTPunggolLineWestLoop",
         "order": 0
       },
-      "id": 203
+      "id": 204
     },
     {
       "type": "Feature",
@@ -198,12 +198,12 @@
         ]
       },
       "properties": {
-        "id": 212,
+        "id": 213,
         "name": "Sengkang",
         "line": "SingaporeLRTSengkangLineEastLoop",
         "order": 0
       },
-      "id": 212
+      "id": 213
     },
     {
       "type": "Feature",
@@ -215,12 +215,12 @@
         ]
       },
       "properties": {
-        "id": 219,
+        "id": 220,
         "name": "Sengkang",
         "line": "SingaporeLRTSengkangLineWestLoop",
         "order": 0
       },
-      "id": 219
+      "id": 220
     },
     {
       "type": "Feature",
@@ -232,12 +232,12 @@
         ]
       },
       "properties": {
-        "id": 147,
+        "id": 148,
         "name": "Marina South Pier",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 541
       },
-      "id": 147
+      "id": 148
     },
     {
       "type": "Feature",
@@ -249,12 +249,12 @@
         ]
       },
       "properties": {
-        "id": 146,
+        "id": 147,
         "name": "Marina Bay",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 529
       },
-      "id": 146
+      "id": 147
     },
     {
       "type": "Feature",
@@ -283,12 +283,12 @@
         ]
       },
       "properties": {
-        "id": 145,
+        "id": 146,
         "name": "Raffles Place",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 517
       },
-      "id": 145
+      "id": 146
     },
     {
       "type": "Feature",
@@ -300,12 +300,12 @@
         ]
       },
       "properties": {
-        "id": 144,
+        "id": 145,
         "name": "City Hall",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 507
       },
-      "id": 144
+      "id": 145
     },
     {
       "type": "Feature",
@@ -317,12 +317,12 @@
         ]
       },
       "properties": {
-        "id": 143,
+        "id": 144,
         "name": "Dhoby Ghaut",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 500
       },
-      "id": 143
+      "id": 144
     },
     {
       "type": "Feature",
@@ -334,12 +334,12 @@
         ]
       },
       "properties": {
-        "id": 142,
+        "id": 143,
         "name": "Somerset",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 497
       },
-      "id": 142
+      "id": 143
     },
     {
       "type": "Feature",
@@ -368,12 +368,12 @@
         ]
       },
       "properties": {
-        "id": 141,
+        "id": 142,
         "name": "Orchard",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 485
       },
-      "id": 141
+      "id": 142
     },
     {
       "type": "Feature",
@@ -385,12 +385,12 @@
         ]
       },
       "properties": {
-        "id": 174,
+        "id": 175,
         "name": "Bayshore",
         "line": "CM_SingaporeMRT_tel",
         "order": 484
       },
-      "id": 174
+      "id": 175
     },
     {
       "type": "Feature",
@@ -419,12 +419,12 @@
         ]
       },
       "properties": {
-        "id": 140,
+        "id": 141,
         "name": "Newton",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 477
       },
-      "id": 140
+      "id": 141
     },
     {
       "type": "Feature",
@@ -436,12 +436,12 @@
         ]
       },
       "properties": {
-        "id": 139,
+        "id": 140,
         "name": "Novena",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 473
       },
-      "id": 139
+      "id": 140
     },
     {
       "type": "Feature",
@@ -453,12 +453,12 @@
         ]
       },
       "properties": {
-        "id": 138,
+        "id": 139,
         "name": "Toa Payoh",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 467
       },
-      "id": 138
+      "id": 139
     },
     {
       "type": "Feature",
@@ -470,12 +470,12 @@
         ]
       },
       "properties": {
-        "id": 137,
+        "id": 138,
         "name": "Braddell",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 461
       },
-      "id": 137
+      "id": 138
     },
     {
       "type": "Feature",
@@ -487,12 +487,12 @@
         ]
       },
       "properties": {
-        "id": 173,
+        "id": 174,
         "name": "Siglap",
         "line": "CM_SingaporeMRT_tel",
         "order": 458
       },
-      "id": 173
+      "id": 174
     },
     {
       "type": "Feature",
@@ -504,12 +504,12 @@
         ]
       },
       "properties": {
-        "id": 136,
+        "id": 137,
         "name": "Bishan",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 451
       },
-      "id": 136
+      "id": 137
     },
     {
       "type": "Feature",
@@ -521,12 +521,12 @@
         ]
       },
       "properties": {
-        "id": 172,
+        "id": 173,
         "name": "Marine Terrace",
         "line": "CM_SingaporeMRT_tel",
         "order": 443
       },
-      "id": 172
+      "id": 173
     },
     {
       "type": "Feature",
@@ -555,12 +555,12 @@
         ]
       },
       "properties": {
-        "id": 171,
+        "id": 172,
         "name": "Marine Parade",
         "line": "CM_SingaporeMRT_tel",
         "order": 435
       },
-      "id": 171
+      "id": 172
     },
     {
       "type": "Feature",
@@ -589,12 +589,12 @@
         ]
       },
       "properties": {
-        "id": 170,
+        "id": 171,
         "name": "Tanjong Katong",
         "line": "CM_SingaporeMRT_tel",
         "order": 425
       },
-      "id": 170
+      "id": 171
     },
     {
       "type": "Feature",
@@ -606,12 +606,12 @@
         ]
       },
       "properties": {
-        "id": 169,
+        "id": 170,
         "name": "Katong Park",
         "line": "CM_SingaporeMRT_tel",
         "order": 415
       },
-      "id": 169
+      "id": 170
     },
     {
       "type": "Feature",
@@ -623,12 +623,12 @@
         ]
       },
       "properties": {
-        "id": 135,
+        "id": 136,
         "name": "Ang Mo Kio",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 414
       },
-      "id": 135
+      "id": 136
     },
     {
       "type": "Feature",
@@ -657,12 +657,12 @@
         ]
       },
       "properties": {
-        "id": 134,
+        "id": 135,
         "name": "Yio Chu Kang",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 398
       },
-      "id": 134
+      "id": 135
     },
     {
       "type": "Feature",
@@ -674,12 +674,12 @@
         ]
       },
       "properties": {
-        "id": 168,
+        "id": 169,
         "name": "Tanjong Rhu",
         "line": "CM_SingaporeMRT_tel",
         "order": 398
       },
-      "id": 168
+      "id": 169
     },
     {
       "type": "Feature",
@@ -742,12 +742,12 @@
         ]
       },
       "properties": {
-        "id": 167,
+        "id": 168,
         "name": "Gardens by the Bay",
         "line": "CM_SingaporeMRT_tel",
         "order": 361
       },
-      "id": 167
+      "id": 168
     },
     {
       "type": "Feature",
@@ -776,12 +776,12 @@
         ]
       },
       "properties": {
-        "id": 166,
+        "id": 167,
         "name": "Marina Bay",
         "line": "CM_SingaporeMRT_tel",
         "order": 344
       },
-      "id": 166
+      "id": 167
     },
     {
       "type": "Feature",
@@ -810,12 +810,12 @@
         ]
       },
       "properties": {
-        "id": 165,
+        "id": 166,
         "name": "Shenton Way",
         "line": "CM_SingaporeMRT_tel",
         "order": 340
       },
-      "id": 165
+      "id": 166
     },
     {
       "type": "Feature",
@@ -861,12 +861,12 @@
         ]
       },
       "properties": {
-        "id": 133,
+        "id": 134,
         "name": "Khatib",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 328
       },
-      "id": 133
+      "id": 134
     },
     {
       "type": "Feature",
@@ -878,12 +878,12 @@
         ]
       },
       "properties": {
-        "id": 164,
+        "id": 165,
         "name": "Maxwell",
         "line": "CM_SingaporeMRT_tel",
         "order": 324
       },
-      "id": 164
+      "id": 165
     },
     {
       "type": "Feature",
@@ -912,12 +912,12 @@
         ]
       },
       "properties": {
-        "id": 163,
+        "id": 164,
         "name": "Outram Park",
         "line": "CM_SingaporeMRT_tel",
         "order": 314
       },
-      "id": 163
+      "id": 164
     },
     {
       "type": "Feature",
@@ -929,12 +929,12 @@
         ]
       },
       "properties": {
-        "id": 132,
+        "id": 133,
         "name": "Yishun",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 312
       },
-      "id": 132
+      "id": 133
     },
     {
       "type": "Feature",
@@ -980,12 +980,12 @@
         ]
       },
       "properties": {
-        "id": 162,
+        "id": 163,
         "name": "Havelock",
         "line": "CM_SingaporeMRT_tel",
         "order": 300
       },
-      "id": 162
+      "id": 163
     },
     {
       "type": "Feature",
@@ -997,12 +997,12 @@
         ]
       },
       "properties": {
-        "id": 131,
+        "id": 132,
         "name": "Canberra",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 292
       },
-      "id": 131
+      "id": 132
     },
     {
       "type": "Feature",
@@ -1031,12 +1031,12 @@
         ]
       },
       "properties": {
-        "id": 161,
+        "id": 162,
         "name": "Great World",
         "line": "CM_SingaporeMRT_tel",
         "order": 291
       },
-      "id": 161
+      "id": 162
     },
     {
       "type": "Feature",
@@ -1048,12 +1048,12 @@
         ]
       },
       "properties": {
-        "id": 160,
+        "id": 161,
         "name": "Orchard",
         "line": "CM_SingaporeMRT_tel",
         "order": 277
       },
-      "id": 160
+      "id": 161
     },
     {
       "type": "Feature",
@@ -1116,12 +1116,12 @@
         ]
       },
       "properties": {
-        "id": 130,
+        "id": 131,
         "name": "Sembawang",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 267
       },
-      "id": 130
+      "id": 131
     },
     {
       "type": "Feature",
@@ -1133,12 +1133,12 @@
         ]
       },
       "properties": {
-        "id": 159,
+        "id": 160,
         "name": "Orchard Boulevard",
         "line": "CM_SingaporeMRT_tel",
         "order": 262
       },
-      "id": 159
+      "id": 160
     },
     {
       "type": "Feature",
@@ -1201,12 +1201,12 @@
         ]
       },
       "properties": {
-        "id": 158,
+        "id": 159,
         "name": "Napier",
         "line": "CM_SingaporeMRT_tel",
         "order": 247
       },
-      "id": 158
+      "id": 159
     },
     {
       "type": "Feature",
@@ -1235,12 +1235,12 @@
         ]
       },
       "properties": {
-        "id": 129,
+        "id": 130,
         "name": "Admiralty",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 241
       },
-      "id": 129
+      "id": 130
     },
     {
       "type": "Feature",
@@ -1388,12 +1388,12 @@
         ]
       },
       "properties": {
-        "id": 128,
+        "id": 129,
         "name": "Woodlands",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 223
       },
-      "id": 128
+      "id": 129
     },
     {
       "type": "Feature",
@@ -1422,12 +1422,12 @@
         ]
       },
       "properties": {
-        "id": 157,
+        "id": 158,
         "name": "Stevens",
         "line": "CM_SingaporeMRT_tel",
         "order": 222
       },
-      "id": 157
+      "id": 158
     },
     {
       "type": "Feature",
@@ -1609,12 +1609,12 @@
         ]
       },
       "properties": {
-        "id": 127,
+        "id": 128,
         "name": "Marsiling",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 194
       },
-      "id": 127
+      "id": 128
     },
     {
       "type": "Feature",
@@ -1643,12 +1643,12 @@
         ]
       },
       "properties": {
-        "id": 156,
+        "id": 157,
         "name": "Caldecott",
         "line": "CM_SingaporeMRT_tel",
         "order": 192
       },
-      "id": 156
+      "id": 157
     },
     {
       "type": "Feature",
@@ -1745,12 +1745,12 @@
         ]
       },
       "properties": {
-        "id": 126,
+        "id": 127,
         "name": "Kranji",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 170
       },
-      "id": 126
+      "id": 127
     },
     {
       "type": "Feature",
@@ -1779,12 +1779,12 @@
         ]
       },
       "properties": {
-        "id": 155,
+        "id": 156,
         "name": "Upper Thomson",
         "line": "CM_SingaporeMRT_tel",
         "order": 161
       },
-      "id": 155
+      "id": 156
     },
     {
       "type": "Feature",
@@ -1881,12 +1881,12 @@
         ]
       },
       "properties": {
-        "id": 154,
+        "id": 155,
         "name": "Bright Hill",
         "line": "CM_SingaporeMRT_tel",
         "order": 139
       },
-      "id": 154
+      "id": 155
     },
     {
       "type": "Feature",
@@ -1966,12 +1966,12 @@
         ]
       },
       "properties": {
-        "id": 153,
+        "id": 154,
         "name": "Mayflower",
         "line": "CM_SingaporeMRT_tel",
         "order": 126
       },
-      "id": 153
+      "id": 154
     },
     {
       "type": "Feature",
@@ -2017,12 +2017,12 @@
         ]
       },
       "properties": {
-        "id": 125,
+        "id": 126,
         "name": "Yew Tee",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 120
       },
-      "id": 125
+      "id": 126
     },
     {
       "type": "Feature",
@@ -2085,12 +2085,12 @@
         ]
       },
       "properties": {
-        "id": 152,
+        "id": 153,
         "name": "Lentor",
         "line": "CM_SingaporeMRT_tel",
         "order": 104
       },
-      "id": 152
+      "id": 153
     },
     {
       "type": "Feature",
@@ -2119,12 +2119,12 @@
         ]
       },
       "properties": {
-        "id": 124,
+        "id": 125,
         "name": "Choa Chu Kang",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 100
       },
-      "id": 124
+      "id": 125
     },
     {
       "type": "Feature",
@@ -2153,12 +2153,12 @@
         ]
       },
       "properties": {
-        "id": 187,
+        "id": 188,
         "name": "Senja",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 94
       },
-      "id": 187
+      "id": 188
     },
     {
       "type": "Feature",
@@ -2221,12 +2221,12 @@
         ]
       },
       "properties": {
-        "id": 151,
+        "id": 152,
         "name": "Springleaf",
         "line": "CM_SingaporeMRT_tel",
         "order": 89
       },
-      "id": 151
+      "id": 152
     },
     {
       "type": "Feature",
@@ -2255,12 +2255,12 @@
         ]
       },
       "properties": {
-        "id": 186,
+        "id": 187,
         "name": "Jelapang",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 84
       },
-      "id": 186
+      "id": 187
     },
     {
       "type": "Feature",
@@ -2340,12 +2340,12 @@
         ]
       },
       "properties": {
-        "id": 185,
+        "id": 186,
         "name": "Segar",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 75
       },
-      "id": 185
+      "id": 186
     },
     {
       "type": "Feature",
@@ -2391,12 +2391,29 @@
         ]
       },
       "properties": {
-        "id": 184,
+        "id": 185,
         "name": "Fajar",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 65
       },
-      "id": 184
+      "id": 185
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.822483,
+          1.265284
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "name": "HarbourFront",
+        "line": "SingaporeMRTNortheastLine",
+        "order": 63
+      },
+      "id": 121
     },
     {
       "type": "Feature",
@@ -2420,15 +2437,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.822469,
-          1.265482
+          103.751742,
+          1.35889
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "name": "Bukit Gombak",
+        "line": "SingaporeMRTNorthsouthLine",
+        "order": 57
+      },
+      "id": 124
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840241,
+          1.280685
         ]
       },
       "properties": {
         "id": 120,
-        "name": "HarbourFront",
+        "name": "Outram Park",
         "line": "SingaporeMRTNortheastLine",
-        "order": 61
+        "order": 56
       },
       "id": 120
     },
@@ -2437,17 +2471,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.751742,
-          1.35889
+          103.844003,
+          1.28502
         ]
       },
       "properties": {
-        "id": 123,
-        "name": "Bukit Gombak",
-        "line": "SingaporeMRTNorthsouthLine",
-        "order": 57
+        "id": 119,
+        "name": "Chinatown",
+        "line": "SingaporeMRTNortheastLine",
+        "order": 55
       },
-      "id": 123
+      "id": 119
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846869,
+          1.288981
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "name": "Clarke Quay",
+        "line": "SingaporeMRTNortheastLine",
+        "order": 53
+      },
+      "id": 118
     },
     {
       "type": "Feature",
@@ -2459,12 +2510,12 @@
         ]
       },
       "properties": {
-        "id": 183,
+        "id": 184,
         "name": "Bangkit",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 53
       },
-      "id": 183
+      "id": 184
     },
     {
       "type": "Feature",
@@ -2505,23 +2556,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.840239,
-          1.280687
-        ]
-      },
-      "properties": {
-        "id": 119,
-        "name": "Outram Park",
-        "line": "SingaporeMRTNortheastLine",
-        "order": 51
-      },
-      "id": 119
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.678284,
           1.327661
         ]
@@ -2539,68 +2573,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.843997,
-          1.285025
-        ]
-      },
-      "properties": {
-        "id": 118,
-        "name": "Chinatown",
-        "line": "SingaporeMRTNortheastLine",
-        "order": 49
-      },
-      "id": 118
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.771259,
           1.376184
         ]
       },
       "properties": {
-        "id": 182,
+        "id": 183,
         "name": "Pending",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 49
       },
-      "id": 182
+      "id": 183
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.84687,
-          1.288981
+          103.844882,
+          1.298839
         ]
       },
       "properties": {
         "id": 117,
-        "name": "Clarke Quay",
-        "line": "SingaporeMRTNortheastLine",
-        "order": 48
-      },
-      "id": 117
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.844994,
-          1.298799
-        ]
-      },
-      "properties": {
-        "id": 116,
         "name": "Dhoby Ghaut",
         "line": "SingaporeMRTNortheastLine",
         "order": 44
       },
-      "id": 116
+      "id": 117
     },
     {
       "type": "Feature",
@@ -2612,12 +2612,12 @@
         ]
       },
       "properties": {
-        "id": 181,
+        "id": 182,
         "name": "Petir",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 44
       },
-      "id": 181
+      "id": 182
     },
     {
       "type": "Feature",
@@ -2641,23 +2641,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.849298,
-          1.306572
-        ]
-      },
-      "properties": {
-        "id": 115,
-        "name": "Little India",
-        "line": "SingaporeMRTNortheastLine",
-        "order": 42
-      },
-      "id": 115
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.938507,
           1.345518
         ]
@@ -2675,17 +2658,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.854374,
-          1.312755
+          103.849299,
+          1.306571
         ]
       },
       "properties": {
-        "id": 114,
-        "name": "Farrer Park",
+        "id": 116,
+        "name": "Little India",
         "line": "SingaporeMRTNortheastLine",
-        "order": 39
+        "order": 40
       },
-      "id": 114
+      "id": 116
     },
     {
       "type": "Feature",
@@ -2697,12 +2680,12 @@
         ]
       },
       "properties": {
-        "id": 227,
+        "id": 228,
         "name": "Renjong",
         "line": "SingaporeLRTSengkangLineWestLoop",
         "order": 39
       },
-      "id": 227
+      "id": 228
     },
     {
       "type": "Feature",
@@ -2726,17 +2709,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.861609,
-          1.319748
+          103.854392,
+          1.312668
         ]
       },
       "properties": {
-        "id": 113,
-        "name": "Boon Keng",
+        "id": 115,
+        "name": "Farrer Park",
         "line": "SingaporeMRTNortheastLine",
-        "order": 36
+        "order": 37
       },
-      "id": 113
+      "id": 115
     },
     {
       "type": "Feature",
@@ -2765,12 +2748,12 @@
         ]
       },
       "properties": {
-        "id": 122,
+        "id": 123,
         "name": "Bukit Batok",
         "line": "SingaporeMRTNorthsouthLine",
         "order": 35
       },
-      "id": 122
+      "id": 123
     },
     {
       "type": "Feature",
@@ -2782,12 +2765,12 @@
         ]
       },
       "properties": {
-        "id": 150,
+        "id": 151,
         "name": "Woodlands South",
         "line": "CM_SingaporeMRT_tel",
         "order": 35
       },
-      "id": 150
+      "id": 151
     },
     {
       "type": "Feature",
@@ -2799,12 +2782,12 @@
         ]
       },
       "properties": {
-        "id": 180,
+        "id": 181,
         "name": "Bukit Panjang",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 35
       },
-      "id": 180
+      "id": 181
     },
     {
       "type": "Feature",
@@ -2816,12 +2799,12 @@
         ]
       },
       "properties": {
-        "id": 226,
+        "id": 227,
         "name": "Tongkang",
         "line": "SingaporeLRTSengkangLineWestLoop",
         "order": 35
       },
-      "id": 226
+      "id": 227
     },
     {
       "type": "Feature",
@@ -2845,17 +2828,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.869099,
-          1.331252
+          103.861521,
+          1.319824
         ]
       },
       "properties": {
-        "id": 112,
+        "id": 114,
+        "name": "Boon Keng",
+        "line": "SingaporeMRTNortheastLine",
+        "order": 32
+      },
+      "id": 114
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.869093,
+          1.331254
+        ]
+      },
+      "properties": {
+        "id": 113,
         "name": "Potong Pasir",
         "line": "SingaporeMRTNortheastLine",
-        "order": 30
+        "order": 29
       },
-      "id": 112
+      "id": 113
     },
     {
       "type": "Feature",
@@ -2867,12 +2867,12 @@
         ]
       },
       "properties": {
-        "id": 210,
+        "id": 211,
         "name": "Sam Kee",
         "line": "SingaporeLRTPunggolLineWestLoop",
         "order": 29
       },
-      "id": 210
+      "id": 211
     },
     {
       "type": "Feature",
@@ -2884,12 +2884,12 @@
         ]
       },
       "properties": {
-        "id": 225,
+        "id": 226,
         "name": "Layar",
         "line": "SingaporeLRTSengkangLineWestLoop",
         "order": 29
       },
-      "id": 225
+      "id": 226
     },
     {
       "type": "Feature",
@@ -2913,17 +2913,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.870743,
-          1.339198
+          103.870754,
+          1.339197
         ]
       },
       "properties": {
-        "id": 111,
+        "id": 112,
         "name": "Woodleigh",
         "line": "SingaporeMRTNortheastLine",
         "order": 26
       },
-      "id": 111
+      "id": 112
     },
     {
       "type": "Feature",
@@ -2935,12 +2935,12 @@
         ]
       },
       "properties": {
-        "id": 179,
+        "id": 180,
         "name": "Phoenix",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 26
       },
-      "id": 179
+      "id": 180
     },
     {
       "type": "Feature",
@@ -2952,12 +2952,12 @@
         ]
       },
       "properties": {
-        "id": 209,
+        "id": 210,
         "name": "Teck Lee",
         "line": "SingaporeLRTPunggolLineWestLoop",
         "order": 26
       },
-      "id": 209
+      "id": 210
     },
     {
       "type": "Feature",
@@ -2998,17 +2998,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.873771,
+          1.349807
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "name": "Serangoon",
+        "line": "SingaporeMRTNortheastLine",
+        "order": 22
+      },
+      "id": 111
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.876297,
           1.391916
         ]
       },
       "properties": {
-        "id": 224,
+        "id": 225,
         "name": "Fernvale",
         "line": "SingaporeLRTSengkangLineWestLoop",
         "order": 22
       },
-      "id": 224
+      "id": 225
     },
     {
       "type": "Feature",
@@ -3032,17 +3049,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.884874,
+          1.359977
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "name": "Kovan",
+        "line": "SingaporeMRTNortheastLine",
+        "order": 21
+      },
+      "id": 110
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.897349,
           1.38403
         ]
       },
       "properties": {
-        "id": 217,
+        "id": 218,
         "name": "Ranggung",
         "line": "SingaporeLRTSengkangLineEastLoop",
         "order": 20
       },
-      "id": 217
+      "id": 218
     },
     {
       "type": "Feature",
@@ -3066,34 +3100,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.873763,
-          1.349814
+          103.906695,
+          1.416919
         ]
       },
       "properties": {
-        "id": 110,
-        "name": "Serangoon",
-        "line": "SingaporeMRTNortheastLine",
+        "id": 209,
+        "name": "Punggol Point",
+        "line": "SingaporeLRTPunggolLineWestLoop",
         "order": 19
       },
-      "id": 110
+      "id": 209
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.906695,
-          1.416919
+          103.892754,
+          1.371904
         ]
       },
       "properties": {
-        "id": 208,
-        "name": "Punggol Point",
-        "line": "SingaporeLRTPunggolLineWestLoop",
-        "order": 19
+        "id": 109,
+        "name": "Hougang",
+        "line": "SingaporeMRTNortheastLine",
+        "order": 17
       },
-      "id": 208
+      "id": 109
     },
     {
       "type": "Feature",
@@ -3105,29 +3139,29 @@
         ]
       },
       "properties": {
-        "id": 178,
+        "id": 179,
         "name": "Teck Whye",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 17
       },
-      "id": 178
+      "id": 179
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.884862,
-          1.359989
+          103.89305,
+          1.383056
         ]
       },
       "properties": {
-        "id": 109,
-        "name": "Kovan",
+        "id": 108,
+        "name": "Buangkok",
         "line": "SingaporeMRTNortheastLine",
         "order": 16
       },
-      "id": 109
+      "id": 108
     },
     {
       "type": "Feature",
@@ -3139,12 +3173,12 @@
         ]
       },
       "properties": {
-        "id": 223,
+        "id": 224,
         "name": "Thanggam",
         "line": "SingaporeLRTSengkangLineWestLoop",
         "order": 16
       },
-      "id": 223
+      "id": 224
     },
     {
       "type": "Feature",
@@ -3156,12 +3190,12 @@
         ]
       },
       "properties": {
-        "id": 149,
+        "id": 150,
         "name": "Woodlands",
         "line": "CM_SingaporeMRT_tel",
         "order": 14
       },
-      "id": 149
+      "id": 150
     },
     {
       "type": "Feature",
@@ -3173,12 +3207,12 @@
         ]
       },
       "properties": {
-        "id": 207,
+        "id": 208,
         "name": "Samudera",
         "line": "SingaporeLRTPunggolLineWestLoop",
         "order": 14
       },
-      "id": 207
+      "id": 208
     },
     {
       "type": "Feature",
@@ -3190,12 +3224,12 @@
         ]
       },
       "properties": {
-        "id": 216,
+        "id": 217,
         "name": "Kangkar",
         "line": "SingaporeLRTSengkangLineEastLoop",
         "order": 14
       },
-      "id": 216
+      "id": 217
     },
     {
       "type": "Feature",
@@ -3219,17 +3253,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.895294,
+          1.39133
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "name": "Sengkang",
+        "line": "SingaporeMRTNortheastLine",
+        "order": 13
+      },
+      "id": 107
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.900305,
           1.411831
         ]
       },
       "properties": {
-        "id": 206,
+        "id": 207,
         "name": "Nibong",
         "line": "SingaporeLRTPunggolLineWestLoop",
         "order": 12
       },
-      "id": 206
+      "id": 207
     },
     {
       "type": "Feature",
@@ -3241,12 +3292,12 @@
         ]
       },
       "properties": {
-        "id": 215,
+        "id": 216,
         "name": "Bakau",
         "line": "SingaporeLRTSengkangLineEastLoop",
         "order": 12
       },
-      "id": 215
+      "id": 216
     },
     {
       "type": "Feature",
@@ -3270,34 +3321,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.892725,
-          1.371904
-        ]
-      },
-      "properties": {
-        "id": 108,
-        "name": "Hougang",
-        "line": "SingaporeMRTNortheastLine",
-        "order": 11
-      },
-      "id": 108
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           103.74903,
           1.378599
         ]
       },
       "properties": {
-        "id": 177,
+        "id": 178,
         "name": "Keat Hong",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 11
       },
-      "id": 177
+      "id": 178
     },
     {
       "type": "Feature",
@@ -3309,12 +3343,12 @@
         ]
       },
       "properties": {
-        "id": 201,
+        "id": 202,
         "name": "Damai",
         "line": "SingaporeLRTPunggolLineEastLoop",
         "order": 11
       },
-      "id": 201
+      "id": 202
     },
     {
       "type": "Feature",
@@ -3326,12 +3360,12 @@
         ]
       },
       "properties": {
-        "id": 205,
+        "id": 206,
         "name": "Sumang",
         "line": "SingaporeLRTPunggolLineWestLoop",
         "order": 11
       },
-      "id": 205
+      "id": 206
     },
     {
       "type": "Feature",
@@ -3343,12 +3377,12 @@
         ]
       },
       "properties": {
-        "id": 222,
+        "id": 223,
         "name": "Kupang",
         "line": "SingaporeLRTSengkangLineWestLoop",
         "order": 11
       },
-      "id": 222
+      "id": 223
     },
     {
       "type": "Feature",
@@ -3360,12 +3394,12 @@
         ]
       },
       "properties": {
-        "id": 200,
+        "id": 201,
         "name": "Oasis",
         "line": "SingaporeLRTPunggolLineEastLoop",
         "order": 10
       },
-      "id": 200
+      "id": 201
     },
     {
       "type": "Feature",
@@ -3406,17 +3440,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.89305,
-          1.383057
+          103.902354,
+          1.405255
         ]
       },
       "properties": {
-        "id": 107,
-        "name": "Buangkok",
+        "id": 106,
+        "name": "Punggol",
         "line": "SingaporeMRTNortheastLine",
         "order": 9
       },
-      "id": 107
+      "id": 106
     },
     {
       "type": "Feature",
@@ -3428,12 +3462,12 @@
         ]
       },
       "properties": {
-        "id": 176,
+        "id": 177,
         "name": "South View",
         "line": "SingaporeLRTBukitPanjangLine",
         "order": 9
       },
-      "id": 176
+      "id": 177
     },
     {
       "type": "Feature",
@@ -3445,12 +3479,12 @@
         ]
       },
       "properties": {
-        "id": 199,
+        "id": 200,
         "name": "Kadaloor",
         "line": "SingaporeLRTPunggolLineEastLoop",
         "order": 9
       },
-      "id": 199
+      "id": 200
     },
     {
       "type": "Feature",
@@ -3462,12 +3496,12 @@
         ]
       },
       "properties": {
-        "id": 204,
+        "id": 205,
         "name": "Soo Teck",
         "line": "SingaporeLRTPunggolLineWestLoop",
         "order": 9
       },
-      "id": 204
+      "id": 205
     },
     {
       "type": "Feature",
@@ -3479,12 +3513,12 @@
         ]
       },
       "properties": {
-        "id": 214,
+        "id": 215,
         "name": "Rumbia",
         "line": "SingaporeLRTSengkangLineEastLoop",
         "order": 9
       },
-      "id": 214
+      "id": 215
     },
     {
       "type": "Feature",
@@ -3496,12 +3530,12 @@
         ]
       },
       "properties": {
-        "id": 221,
+        "id": 222,
         "name": "Farmway",
         "line": "SingaporeLRTSengkangLineWestLoop",
         "order": 9
       },
-      "id": 221
+      "id": 222
     },
     {
       "type": "Feature",
@@ -3530,12 +3564,12 @@
         ]
       },
       "properties": {
-        "id": 198,
+        "id": 199,
         "name": "Riviera",
         "line": "SingaporeLRTPunggolLineEastLoop",
         "order": 7
       },
-      "id": 198
+      "id": 199
     },
     {
       "type": "Feature",
@@ -3547,12 +3581,12 @@
         ]
       },
       "properties": {
-        "id": 220,
+        "id": 221,
         "name": "Cheng Lim",
         "line": "SingaporeLRTSengkangLineWestLoop",
         "order": 7
       },
-      "id": 220
+      "id": 221
     },
     {
       "type": "Feature",
@@ -3564,12 +3598,12 @@
         ]
       },
       "properties": {
-        "id": 213,
+        "id": 214,
         "name": "Compassvale",
         "line": "SingaporeLRTSengkangLineEastLoop",
         "order": 6
       },
-      "id": 213
+      "id": 214
     },
     {
       "type": "Feature",
@@ -3581,29 +3615,12 @@
         ]
       },
       "properties": {
-        "id": 197,
+        "id": 198,
         "name": "Coral Edge",
         "line": "SingaporeLRTPunggolLineEastLoop",
         "order": 5
       },
-      "id": 197
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.895269,
-          1.39134
-        ]
-      },
-      "properties": {
-        "id": 106,
-        "name": "Sengkang",
-        "line": "SingaporeMRTNortheastLine",
-        "order": 4
-      },
-      "id": 106
+      "id": 198
     },
     {
       "type": "Feature",
@@ -3615,12 +3632,12 @@
         ]
       },
       "properties": {
-        "id": 196,
+        "id": 197,
         "name": "Meridian",
         "line": "SingaporeLRTPunggolLineEastLoop",
         "order": 3
       },
-      "id": 196
+      "id": 197
     },
     {
       "type": "Feature",
@@ -3632,21 +3649,21 @@
         ]
       },
       "properties": {
-        "id": 195,
+        "id": 196,
         "name": "Cove",
         "line": "SingaporeLRTPunggolLineEastLoop",
         "order": 1
       },
-      "id": 195
+      "id": 196
     }
   ],
   "properties": {
-    "totalStations": 214,
+    "totalStations": 215,
     "stationsPerLine": {
       "SingaporeMRTCircleLine": 30,
       "SingaporeMRTDowntownLine": 35,
       "SingaporeMRTEastwestLine": 35,
-      "SingaporeMRTNortheastLine": 16,
+      "SingaporeMRTNortheastLine": 17,
       "SingaporeMRTNorthsouthLine": 27,
       "CM_SingaporeMRT_tel": 27,
       "SingaporeLRTBukitPanjangLine": 13,
