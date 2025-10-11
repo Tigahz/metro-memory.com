@@ -1,6 +1,6 @@
-import { Metadata } from 'next'
-import { MapboxOptions } from 'mapbox-gl'
 import { Config, Line } from '@/lib/types'
+import { MapboxOptions } from 'mapbox-gl'
+import { Metadata } from 'next'
 
 export const BEG_THRESHOLD = 0.2
 
@@ -49,41 +49,41 @@ export const LINES: {
     textColor: '#FFFFFF',
     order: 5,
   },
-  // SingaporeLRTBukitPanjangLine: {
-  //   name: 'Bukit Panjang Line',
-  //   color: '#748477',
-  //   backgroundColor: '#3A423C',
-  //   textColor: '#FFFFFF',
-  //   order: 6,
-  // },
-  // SingaporeLRTPunggolLineEastLoop: {
-  //   name: 'Punggol (East)',
-  //   color: '#748477',
-  //   backgroundColor: '#3A423C',
-  //   textColor: '#FFFFFF',
-  //   order: 7,
-  // },
-  // SingaporeLRTPunggolLineWestLoop: {
-  //   name: 'Punggol (West)',
-  //   color: '#748477',
-  //   backgroundColor: '#3A423C',
-  //   textColor: '#FFFFFF',
-  //   order: 8,
-  // },
-  // SingaporeLRTSengkangLineEastLoop: {
-  //   name: 'Sengkang (East)',
-  //   color: '#748477',
-  //   backgroundColor: '#3A423C',
-  //   textColor: '#FFFFFF',
-  //   order: 9,
-  // },
-  // SingaporeLRTSengkangLineWestLoop: {
-  //   name: 'Sengkang (West)',
-  //   color: '#748477',
-  //   backgroundColor: '#3A423C',
-  //   textColor: '#FFFFFF',
-  //   order: 10,
-  // },
+  SingaporeLRTBukitPanjangLine: {
+    name: 'Bukit Panjang Line',
+    color: '#748477',
+    backgroundColor: '#3A423C',
+    textColor: '#FFFFFF',
+    order: 6,
+  },
+  SingaporeLRTPunggolLineEastLoop: {
+    name: 'Punggol (East)',
+    color: '#748477',
+    backgroundColor: '#3A423C',
+    textColor: '#FFFFFF',
+    order: 7,
+  },
+  SingaporeLRTPunggolLineWestLoop: {
+    name: 'Punggol (West)',
+    color: '#748477',
+    backgroundColor: '#3A423C',
+    textColor: '#FFFFFF',
+    order: 8,
+  },
+  SingaporeLRTSengkangLineEastLoop: {
+    name: 'Sengkang (East)',
+    color: '#748477',
+    backgroundColor: '#3A423C',
+    textColor: '#FFFFFF',
+    order: 9,
+  },
+  SingaporeLRTSengkangLineWestLoop: {
+    name: 'Sengkang (West)',
+    color: '#748477',
+    backgroundColor: '#3A423C',
+    textColor: '#FFFFFF',
+    order: 10,
+  },
 }
 
 export const METADATA: Metadata = {

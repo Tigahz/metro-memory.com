@@ -5,7 +5,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.844989, 1.298669]
+        "coordinates": [
+          103.844989,
+          1.298669
+        ]
       },
       "properties": {
         "id": 1,
@@ -19,7 +22,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.854751, 1.275171]
+        "coordinates": [
+          103.854751,
+          1.275171
+        ]
       },
       "properties": {
         "id": 29,
@@ -67,7 +73,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.988565, 1.357338]
+        "coordinates": [
+          103.988565,
+          1.357338
+        ]
       },
       "properties": {
         "id": 102,
@@ -81,7 +90,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.902362, 1.405251]
+        "coordinates": [
+          103.902362,
+          1.405251
+        ]
       },
       "properties": {
         "id": 105,
@@ -130,6 +142,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.744588,
+          1.384727
+        ]
+      },
+      "properties": {
+        "id": 175,
+        "name": "Choa Chu Kang",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 0
+      },
+      "id": 175
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902447,
+          1.405079
+        ]
+      },
+      "properties": {
+        "id": 194,
+        "name": "Punggol",
+        "line": "SingaporeLRTPunggolLineEastLoop",
+        "order": 0
+      },
+      "id": 194
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902354,
+          1.405255
+        ]
+      },
+      "properties": {
+        "id": 203,
+        "name": "Punggol",
+        "line": "SingaporeLRTPunggolLineWestLoop",
+        "order": 0
+      },
+      "id": 203
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895294,
+          1.39133
+        ]
+      },
+      "properties": {
+        "id": 212,
+        "name": "Sengkang",
+        "line": "SingaporeLRTSengkangLineEastLoop",
+        "order": 0
+      },
+      "id": 212
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895294,
+          1.39133
+        ]
+      },
+      "properties": {
+        "id": 219,
+        "name": "Sengkang",
+        "line": "SingaporeLRTSengkangLineWestLoop",
+        "order": 0
+      },
+      "id": 219
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.862723,
           1.27175
         ]
@@ -163,7 +260,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.94933, 1.373012]
+        "coordinates": [
+          103.94933,
+          1.373012
+        ]
       },
       "properties": {
         "id": 101,
@@ -2048,6 +2148,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.762382,
+          1.382678
+        ]
+      },
+      "properties": {
+        "id": 187,
+        "name": "Senja",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 94
+      },
+      "id": 187
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.880476,
           1.342493
         ]
@@ -2133,6 +2250,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.764515,
+          1.386683
+        ]
+      },
+      "properties": {
+        "id": 186,
+        "name": "Jelapang",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 84
+      },
+      "id": 186
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.890309,
           1.326558
         ]
@@ -2201,6 +2335,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.769593,
+          1.387792
+        ]
+      },
+      "properties": {
+        "id": 185,
+        "name": "Segar",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 75
+      },
+      "id": 185
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.892256,
           1.31804
         ]
@@ -2229,6 +2380,23 @@
         "order": 69
       },
       "id": 41
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7708,
+          1.38455
+        ]
+      },
+      "properties": {
+        "id": 184,
+        "name": "Fajar",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 65
+      },
+      "id": 184
     },
     {
       "type": "Feature",
@@ -2280,6 +2448,23 @@
         "order": 57
       },
       "id": 123
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.772644,
+          1.380055
+        ]
+      },
+      "properties": {
+        "id": 183,
+        "name": "Bangkit",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 53
+      },
+      "id": 183
     },
     {
       "type": "Feature",
@@ -2371,6 +2556,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.771259,
+          1.376184
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "name": "Pending",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 49
+      },
+      "id": 182
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.84687,
           1.288981
         ]
@@ -2399,6 +2601,23 @@
         "order": 44
       },
       "id": 116
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.766634,
+          1.377756
+        ]
+      },
+      "properties": {
+        "id": 181,
+        "name": "Petir",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 44
+      },
+      "id": 181
     },
     {
       "type": "Feature",
@@ -2467,6 +2686,23 @@
         "order": 39
       },
       "id": 114
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.890502,
+          1.386764
+        ]
+      },
+      "properties": {
+        "id": 227,
+        "name": "Renjong",
+        "line": "SingaporeLRTSengkangLineWestLoop",
+        "order": 39
+      },
+      "id": 227
     },
     {
       "type": "Feature",
@@ -2558,6 +2794,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.761584,
+          1.378
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "name": "Bukit Panjang",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 35
+      },
+      "id": 180
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.885807,
+          1.389445
+        ]
+      },
+      "properties": {
+        "id": 226,
+        "name": "Tongkang",
+        "line": "SingaporeLRTSengkangLineWestLoop",
+        "order": 35
+      },
+      "id": 226
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.660496,
           1.319347
         ]
@@ -2586,6 +2856,40 @@
         "order": 30
       },
       "id": 112
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90486,
+          1.409581
+        ]
+      },
+      "properties": {
+        "id": 210,
+        "name": "Sam Kee",
+        "line": "SingaporeLRTPunggolLineWestLoop",
+        "order": 29
+      },
+      "id": 210
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.880075,
+          1.392144
+        ]
+      },
+      "properties": {
+        "id": 225,
+        "name": "Layar",
+        "line": "SingaporeLRTSengkangLineWestLoop",
+        "order": 29
+      },
+      "id": 225
     },
     {
       "type": "Feature",
@@ -2626,6 +2930,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.758008,
+          1.378616
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "name": "Phoenix",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 26
+      },
+      "id": 179
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906663,
+          1.4127
+        ]
+      },
+      "properties": {
+        "id": 209,
+        "name": "Teck Lee",
+        "line": "SingaporeLRTPunggolLineWestLoop",
+        "order": 26
+      },
+      "id": 209
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.955007,
           1.356149
         ]
@@ -2660,6 +2998,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.876297,
+          1.391916
+        ]
+      },
+      "properties": {
+        "id": 224,
+        "name": "Fernvale",
+        "line": "SingaporeLRTSengkangLineWestLoop",
+        "order": 22
+      },
+      "id": 224
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.861087,
           1.29278
         ]
@@ -2671,6 +3026,23 @@
         "order": 21
       },
       "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.897349,
+          1.38403
+        ]
+      },
+      "properties": {
+        "id": 217,
+        "name": "Ranggung",
+        "line": "SingaporeLRTSengkangLineEastLoop",
+        "order": 20
+      },
+      "id": 217
     },
     {
       "type": "Feature",
@@ -2711,6 +3083,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.906695,
+          1.416919
+        ]
+      },
+      "properties": {
+        "id": 208,
+        "name": "Punggol Point",
+        "line": "SingaporeLRTPunggolLineWestLoop",
+        "order": 19
+      },
+      "id": 208
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.753647,
+          1.37667
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "name": "Teck Whye",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 17
+      },
+      "id": 178
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.884862,
           1.359989
         ]
@@ -2722,6 +3128,23 @@
         "order": 16
       },
       "id": 109
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.875645,
+          1.397434
+        ]
+      },
+      "properties": {
+        "id": 223,
+        "name": "Thanggam",
+        "line": "SingaporeLRTSengkangLineWestLoop",
+        "order": 16
+      },
+      "id": 223
     },
     {
       "type": "Feature",
@@ -2745,6 +3168,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.902155,
+          1.416012
+        ]
+      },
+      "properties": {
+        "id": 207,
+        "name": "Samudera",
+        "line": "SingaporeLRTPunggolLineWestLoop",
+        "order": 14
+      },
+      "id": 207
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902202,
+          1.383922
+        ]
+      },
+      "properties": {
+        "id": 216,
+        "name": "Kangkar",
+        "line": "SingaporeLRTSengkangLineEastLoop",
+        "order": 14
+      },
+      "id": 216
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.64009,
           1.329433
         ]
@@ -2756,6 +3213,40 @@
         "order": 13
       },
       "id": 70
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.900305,
+          1.411831
+        ]
+      },
+      "properties": {
+        "id": 206,
+        "name": "Nibong",
+        "line": "SingaporeLRTPunggolLineWestLoop",
+        "order": 12
+      },
+      "id": 206
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.905458,
+          1.388029
+        ]
+      },
+      "properties": {
+        "id": 215,
+        "name": "Bakau",
+        "line": "SingaporeLRTSengkangLineEastLoop",
+        "order": 12
+      },
+      "id": 215
     },
     {
       "type": "Feature",
@@ -2790,6 +3281,91 @@
         "order": 11
       },
       "id": 108
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74903,
+          1.378599
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "name": "Keat Hong",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 11
+      },
+      "id": 177
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.908627,
+          1.405251
+        ]
+      },
+      "properties": {
+        "id": 201,
+        "name": "Damai",
+        "line": "SingaporeLRTPunggolLineEastLoop",
+        "order": 11
+      },
+      "id": 201
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.898534,
+          1.408532
+        ]
+      },
+      "properties": {
+        "id": 205,
+        "name": "Sumang",
+        "line": "SingaporeLRTPunggolLineWestLoop",
+        "order": 11
+      },
+      "id": 205
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.881244,
+          1.398204
+        ]
+      },
+      "properties": {
+        "id": 222,
+        "name": "Kupang",
+        "line": "SingaporeLRTSengkangLineWestLoop",
+        "order": 11
+      },
+      "id": 222
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.912725,
+          1.402333
+        ]
+      },
+      "properties": {
+        "id": 200,
+        "name": "Oasis",
+        "line": "SingaporeLRTPunggolLineEastLoop",
+        "order": 10
+      },
+      "id": 200
     },
     {
       "type": "Feature",
@@ -2847,6 +3423,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.745285,
+          1.38026
+        ]
+      },
+      "properties": {
+        "id": 176,
+        "name": "South View",
+        "line": "SingaporeLRTBukitPanjangLine",
+        "order": 9
+      },
+      "id": 176
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.916459,
+          1.3996
+        ]
+      },
+      "properties": {
+        "id": 199,
+        "name": "Kadaloor",
+        "line": "SingaporeLRTPunggolLineEastLoop",
+        "order": 9
+      },
+      "id": 199
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.897236,
+          1.405394
+        ]
+      },
+      "properties": {
+        "id": 204,
+        "name": "Soo Teck",
+        "line": "SingaporeLRTPunggolLineWestLoop",
+        "order": 9
+      },
+      "id": 204
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.905937,
+          1.39151
+        ]
+      },
+      "properties": {
+        "id": 214,
+        "name": "Rumbia",
+        "line": "SingaporeLRTSengkangLineEastLoop",
+        "order": 9
+      },
+      "id": 214
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.889167,
+          1.397191
+        ]
+      },
+      "properties": {
+        "id": 221,
+        "name": "Farmway",
+        "line": "SingaporeLRTSengkangLineWestLoop",
+        "order": 9
+      },
+      "id": 221
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.850518,
           1.296852
         ]
@@ -2864,6 +3525,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.916145,
+          1.394531
+        ]
+      },
+      "properties": {
+        "id": 198,
+        "name": "Riviera",
+        "line": "SingaporeLRTPunggolLineEastLoop",
+        "order": 7
+      },
+      "id": 198
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893713,
+          1.39631
+        ]
+      },
+      "properties": {
+        "id": 220,
+        "name": "Cheng Lim",
+        "line": "SingaporeLRTSengkangLineWestLoop",
+        "order": 7
+      },
+      "id": 220
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.900435,
+          1.394518
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "name": "Compassvale",
+        "line": "SingaporeLRTSengkangLineEastLoop",
+        "order": 6
+      },
+      "id": 213
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.912669,
+          1.393907
+        ]
+      },
+      "properties": {
+        "id": 197,
+        "name": "Coral Edge",
+        "line": "SingaporeLRTPunggolLineEastLoop",
+        "order": 5
+      },
+      "id": 197
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.895269,
           1.39134
         ]
@@ -2875,17 +3604,56 @@
         "order": 4
       },
       "id": 106
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.908928,
+          1.397043
+        ]
+      },
+      "properties": {
+        "id": 196,
+        "name": "Meridian",
+        "line": "SingaporeLRTPunggolLineEastLoop",
+        "order": 3
+      },
+      "id": 196
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.905901,
+          1.399495
+        ]
+      },
+      "properties": {
+        "id": 195,
+        "name": "Cove",
+        "line": "SingaporeLRTPunggolLineEastLoop",
+        "order": 1
+      },
+      "id": 195
     }
   ],
   "properties": {
-    "totalStations": 170,
+    "totalStations": 214,
     "stationsPerLine": {
       "SingaporeMRTCircleLine": 30,
       "SingaporeMRTDowntownLine": 35,
       "SingaporeMRTEastwestLine": 35,
       "SingaporeMRTNortheastLine": 16,
       "SingaporeMRTNorthsouthLine": 27,
-      "CM_SingaporeMRT_tel": 27
+      "CM_SingaporeMRT_tel": 27,
+      "SingaporeLRTBukitPanjangLine": 13,
+      "SingaporeLRTPunggolLineEastLoop": 8,
+      "SingaporeLRTPunggolLineWestLoop": 8,
+      "SingaporeLRTSengkangLineEastLoop": 6,
+      "SingaporeLRTSengkangLineWestLoop": 9
     }
   }
 }
