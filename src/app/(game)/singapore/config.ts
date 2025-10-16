@@ -121,7 +121,10 @@ export const CITY_NAME = 'singapore'
 
 export const LOCALE = 'en'
 
+export const MAP_FROM_DATA = true
+
 const config: Config = {
+  MAP_FROM_DATA,
   LOCALE,
   STRIPE_LINK,
   CITY_NAME,
