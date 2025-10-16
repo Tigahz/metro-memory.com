@@ -48,32 +48,18 @@
     "textColor": "#FFFFFF",
     "order": 6
   },
-  "SingaporeLRTPunggolLineEastLoop": {
-    "name": "PGLRT (East)",
+  "SingaporeLRTPunggolLine": {
+    "name": "PGLRT",
     "color": "#748477",
     "backgroundColor": "#3A423C",
     "textColor": "#FFFFFF",
     "order": 7
   },
-  "SingaporeLRTPunggolLineWestLoop": {
-    "name": "PGLRT (West)",
+  "SingaporeLRTSengkangLine": {
+    "name": "SKLRT",
     "color": "#748477",
     "backgroundColor": "#3A423C",
     "textColor": "#FFFFFF",
     "order": 8
-  },
-  "SingaporeLRTSengkangLineEastLoop": {
-    "name": "SKLRT (East)",
-    "color": "#748477",
-    "backgroundColor": "#3A423C",
-    "textColor": "#FFFFFF",
-    "order": 9
-  },
-  "SingaporeLRTSengkangLineWestLoop": {
-    "name": "SKLRT (West)",
-    "color": "#748477",
-    "backgroundColor": "#3A423C",
-    "textColor": "#FFFFFF",
-    "order": 10
   }
 }

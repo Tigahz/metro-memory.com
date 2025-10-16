@@ -5484,12 +5484,12 @@
       "aliases": ["lrt-bplrt"]
     },
     {
-      "name": "PGLRT (East)",
+      "name": "PGLRT",
       "color": "#748477",
       "text_color": "#FFFFFF",
-      "icon_name": "sg-singapore-LRT-PE",
+      "icon_name": "sg-singapore-LRT-PG",
       "icon_contains_name": false,
-      "live_line_code": "SingaporeLRTPunggolLineEastLoop",
+      "live_line_code": "SingaporeLRTPunggolLine",
       "brand": "SingaporeLRT",
       "mode": "metro",
       "supports_routeinfo": true,
@@ -5526,26 +5526,7 @@
           "id": "Cmpattern_Singaporelrtpunggollineeastloop_4197__Stations",
           "pattern_type": "multidirectional",
           "is_circular": true
-        }
-      ],
-      "live_availability": 0,
-      "ui_color": "#748477",
-      "long_name": "Punggol LRT (East Loop)",
-      "status": { "level": 0, "summary": "Good Service" },
-      "aliases": ["lrt-pglrt-east"]
-    },
-    {
-      "name": "PGLRT (West)",
-      "color": "#748477",
-      "text_color": "#FFFFFF",
-      "icon_name": "sg-singapore-LRT-PW",
-      "icon_contains_name": false,
-      "live_line_code": "SingaporeLRTPunggolLineWestLoop",
-      "brand": "SingaporeLRT",
-      "mode": "metro",
-      "supports_routeinfo": true,
-      "url": "https://citymapper.com/singapore/l/lrt-pglrt-west",
-      "patterns": [
+        },
         {
           "name": "Punggol \u00b7 Punggol",
           "path": [
@@ -5600,17 +5581,17 @@
       ],
       "live_availability": 0,
       "ui_color": "#748477",
-      "long_name": "Punggol LRT (West Loop) ",
+      "long_name": "Punggol LRT",
       "status": { "level": 0, "summary": "Good Service" },
-      "aliases": ["lrt-pglrt-west"]
+      "aliases": ["lrt-pglrt-east", "lrt-pglrt-west"]
     },
     {
-      "name": "SKLRT (East)",
+      "name": "SKLRT",
       "color": "#748477",
       "text_color": "#FFFFFF",
-      "icon_name": "sg-singapore-LRT-SE",
+      "icon_name": "sg-singapore-LRT-SK",
       "icon_contains_name": false,
-      "live_line_code": "SingaporeLRTSengkangLineEastLoop",
+      "live_line_code": "SingaporeLRTSengkangLine",
       "brand": "SingaporeLRT",
       "mode": "metro",
       "supports_routeinfo": true,
@@ -5659,26 +5640,7 @@
           "id": "Cmpattern_Singaporelrtsengkanglineeastloop_4194__Stations",
           "pattern_type": "multidirectional",
           "is_circular": true
-        }
-      ],
-      "live_availability": 0,
-      "ui_color": "#748477",
-      "long_name": "Sengkang LRT (East Loop)",
-      "status": { "level": 0, "summary": "Good Service" },
-      "aliases": ["lrt-sklrt-east"]
-    },
-    {
-      "name": "SKLRT (West)",
-      "color": "#748477",
-      "text_color": "#FFFFFF",
-      "icon_name": "sg-singapore-LRT-SW",
-      "icon_contains_name": false,
-      "live_line_code": "SingaporeLRTSengkangLineWestLoop",
-      "brand": "SingaporeLRT",
-      "mode": "metro",
-      "supports_routeinfo": true,
-      "url": "https://citymapper.com/singapore/l/lrt-sklrt-west",
-      "patterns": [
+        },
         {
           "name": "Sengkang \u00b7 Sengkang",
           "path": [
@@ -5752,9 +5714,9 @@
       ],
       "live_availability": 0,
       "ui_color": "#748477",
-      "long_name": "Sengkang LRT (West Loop)",
+      "long_name": "Sengkang LRT",
       "status": { "level": 0, "summary": "Good Service" },
-      "aliases": ["lrt-sklrt-west"]
+      "aliases": ["lrt-sklrt-east", "lrt-sklrt-west"]
     }
   ],
   "stops": {

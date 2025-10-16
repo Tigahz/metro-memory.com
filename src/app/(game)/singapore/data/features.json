@@ -166,27 +166,10 @@
       "properties": {
         "id": 195,
         "name": "Punggol",
-        "line": "SingaporeLRTPunggolLineEastLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 0
       },
       "id": 195
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.902354,
-          1.405255
-        ]
-      },
-      "properties": {
-        "id": 204,
-        "name": "Punggol",
-        "line": "SingaporeLRTPunggolLineWestLoop",
-        "order": 0
-      },
-      "id": 204
     },
     {
       "type": "Feature",
@@ -200,27 +183,10 @@
       "properties": {
         "id": 213,
         "name": "Sengkang",
-        "line": "SingaporeLRTSengkangLineEastLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 0
       },
       "id": 213
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.895294,
-          1.39133
-        ]
-      },
-      "properties": {
-        "id": 220,
-        "name": "Sengkang",
-        "line": "SingaporeLRTSengkangLineWestLoop",
-        "order": 0
-      },
-      "id": 220
     },
     {
       "type": "Feature",
@@ -2682,7 +2648,7 @@
       "properties": {
         "id": 228,
         "name": "Renjong",
-        "line": "SingaporeLRTSengkangLineWestLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 39
       },
       "id": 228
@@ -2801,7 +2767,7 @@
       "properties": {
         "id": 227,
         "name": "Tongkang",
-        "line": "SingaporeLRTSengkangLineWestLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 35
       },
       "id": 227
@@ -2869,7 +2835,7 @@
       "properties": {
         "id": 211,
         "name": "Sam Kee",
-        "line": "SingaporeLRTPunggolLineWestLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 29
       },
       "id": 211
@@ -2886,7 +2852,7 @@
       "properties": {
         "id": 226,
         "name": "Layar",
-        "line": "SingaporeLRTSengkangLineWestLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 29
       },
       "id": 226
@@ -2954,7 +2920,7 @@
       "properties": {
         "id": 210,
         "name": "Teck Lee",
-        "line": "SingaporeLRTPunggolLineWestLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 26
       },
       "id": 210
@@ -3022,7 +2988,7 @@
       "properties": {
         "id": 225,
         "name": "Fernvale",
-        "line": "SingaporeLRTSengkangLineWestLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 22
       },
       "id": 225
@@ -3073,7 +3039,7 @@
       "properties": {
         "id": 218,
         "name": "Ranggung",
-        "line": "SingaporeLRTSengkangLineEastLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 20
       },
       "id": 218
@@ -3107,7 +3073,7 @@
       "properties": {
         "id": 209,
         "name": "Punggol Point",
-        "line": "SingaporeLRTPunggolLineWestLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 19
       },
       "id": 209
@@ -3175,7 +3141,7 @@
       "properties": {
         "id": 224,
         "name": "Thanggam",
-        "line": "SingaporeLRTSengkangLineWestLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 16
       },
       "id": 224
@@ -3209,7 +3175,7 @@
       "properties": {
         "id": 208,
         "name": "Samudera",
-        "line": "SingaporeLRTPunggolLineWestLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 14
       },
       "id": 208
@@ -3226,7 +3192,7 @@
       "properties": {
         "id": 217,
         "name": "Kangkar",
-        "line": "SingaporeLRTSengkangLineEastLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 14
       },
       "id": 217
@@ -3277,7 +3243,7 @@
       "properties": {
         "id": 207,
         "name": "Nibong",
-        "line": "SingaporeLRTPunggolLineWestLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 12
       },
       "id": 207
@@ -3294,7 +3260,7 @@
       "properties": {
         "id": 216,
         "name": "Bakau",
-        "line": "SingaporeLRTSengkangLineEastLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 12
       },
       "id": 216
@@ -3345,7 +3311,7 @@
       "properties": {
         "id": 202,
         "name": "Damai",
-        "line": "SingaporeLRTPunggolLineEastLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 11
       },
       "id": 202
@@ -3362,7 +3328,7 @@
       "properties": {
         "id": 206,
         "name": "Sumang",
-        "line": "SingaporeLRTPunggolLineWestLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 11
       },
       "id": 206
@@ -3379,7 +3345,7 @@
       "properties": {
         "id": 223,
         "name": "Kupang",
-        "line": "SingaporeLRTSengkangLineWestLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 11
       },
       "id": 223
@@ -3396,7 +3362,7 @@
       "properties": {
         "id": 201,
         "name": "Oasis",
-        "line": "SingaporeLRTPunggolLineEastLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 10
       },
       "id": 201
@@ -3481,7 +3447,7 @@
       "properties": {
         "id": 200,
         "name": "Kadaloor",
-        "line": "SingaporeLRTPunggolLineEastLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 9
       },
       "id": 200
@@ -3498,7 +3464,7 @@
       "properties": {
         "id": 205,
         "name": "Soo Teck",
-        "line": "SingaporeLRTPunggolLineWestLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 9
       },
       "id": 205
@@ -3515,7 +3481,7 @@
       "properties": {
         "id": 215,
         "name": "Rumbia",
-        "line": "SingaporeLRTSengkangLineEastLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 9
       },
       "id": 215
@@ -3532,7 +3498,7 @@
       "properties": {
         "id": 222,
         "name": "Farmway",
-        "line": "SingaporeLRTSengkangLineWestLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 9
       },
       "id": 222
@@ -3566,7 +3532,7 @@
       "properties": {
         "id": 199,
         "name": "Riviera",
-        "line": "SingaporeLRTPunggolLineEastLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 7
       },
       "id": 199
@@ -3583,7 +3549,7 @@
       "properties": {
         "id": 221,
         "name": "Cheng Lim",
-        "line": "SingaporeLRTSengkangLineWestLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 7
       },
       "id": 221
@@ -3600,7 +3566,7 @@
       "properties": {
         "id": 214,
         "name": "Compassvale",
-        "line": "SingaporeLRTSengkangLineEastLoop",
+        "line": "SingaporeLRTSengkangLine",
         "order": 6
       },
       "id": 214
@@ -3617,7 +3583,7 @@
       "properties": {
         "id": 198,
         "name": "Coral Edge",
-        "line": "SingaporeLRTPunggolLineEastLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 5
       },
       "id": 198
@@ -3634,7 +3600,7 @@
       "properties": {
         "id": 197,
         "name": "Meridian",
-        "line": "SingaporeLRTPunggolLineEastLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 3
       },
       "id": 197
@@ -3651,14 +3617,14 @@
       "properties": {
         "id": 196,
         "name": "Cove",
-        "line": "SingaporeLRTPunggolLineEastLoop",
+        "line": "SingaporeLRTPunggolLine",
         "order": 1
       },
       "id": 196
     }
   ],
   "properties": {
-    "totalStations": 215,
+    "totalStations": 213,
     "stationsPerLine": {
       "SingaporeMRTCircleLine": 30,
       "SingaporeMRTDowntownLine": 35,
@@ -3667,10 +3633,8 @@
       "SingaporeMRTNorthsouthLine": 27,
       "CM_SingaporeMRT_tel": 27,
       "SingaporeLRTBukitPanjangLine": 13,
-      "SingaporeLRTPunggolLineEastLoop": 8,
-      "SingaporeLRTPunggolLineWestLoop": 8,
-      "SingaporeLRTSengkangLineEastLoop": 6,
-      "SingaporeLRTSengkangLineWestLoop": 9
+      "SingaporeLRTPunggolLine": 15,
+      "SingaporeLRTSengkangLine": 14
     }
   }
 }

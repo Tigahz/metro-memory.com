@@ -50,39 +50,25 @@ export const LINES: {
     order: 5,
   },
   SingaporeLRTBukitPanjangLine: {
-    name: 'Bukit Panjang Line',
+    name: 'Bukit Panjang LRT',
     color: '#748477',
     backgroundColor: '#3A423C',
     textColor: '#FFFFFF',
     order: 6,
   },
-  SingaporeLRTPunggolLineEastLoop: {
-    name: 'Punggol (East)',
+  SingaporeLRTPunggolLine: {
+    name: 'Punggol LRT',
     color: '#748477',
     backgroundColor: '#3A423C',
     textColor: '#FFFFFF',
     order: 7,
   },
-  SingaporeLRTPunggolLineWestLoop: {
-    name: 'Punggol (West)',
+  SingaporeLRTSengkangLine: {
+    name: 'Sengkang LRT',
     color: '#748477',
     backgroundColor: '#3A423C',
     textColor: '#FFFFFF',
     order: 8,
-  },
-  SingaporeLRTSengkangLineEastLoop: {
-    name: 'Sengkang (East)',
-    color: '#748477',
-    backgroundColor: '#3A423C',
-    textColor: '#FFFFFF',
-    order: 9,
-  },
-  SingaporeLRTSengkangLineWestLoop: {
-    name: 'Sengkang (West)',
-    color: '#748477',
-    backgroundColor: '#3A423C',
-    textColor: '#FFFFFF',
-    order: 10,
   },
 }
 
