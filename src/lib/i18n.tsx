@@ -322,4 +322,37 @@ export const i18n = rosetta({
       name: 'Név',
     },
   },
+  fi: {
+    restartWarning: 'Menetät kaiken edistymisen, oletko varma?',
+    introInstruction: 'Kirjoita aseman nimi ja paina Enter-näppäintä.',
+    backToTheGame: 'Takaisin peliin',
+    stations: ({ count }: { count: number }) =>
+      `${count} asema${count > 1 ? 'a' : ''}`,
+    stationsFound: 'asemista löydetty',
+    inputPlaceholder: 'Aseman nimi',
+    alreadyFound: 'Jo löydetty',
+    startOver: 'Aloita alusta',
+    showSolutions: 'Näytä vastaukset',
+    hideSolutions: 'Piilota vastaukset',
+    supportProject: 'Tue projektia',
+    about: 'Tietoja projektista',
+    congrats: ({ foundProportion }: { foundProportion: number }) =>
+      `Hyvää työtä! Arvasit asemista oikein ${
+        10 * Math.floor((foundProportion * 100) / 10)
+      }%!`,
+    freeGame: 'Tämä peli on ilmainen.',
+    supportWithDonation: ({ title }: { title: string }) => (
+      <span>
+        Tue <strong>tätä peliä ja muiden kaupunkien</strong> kehitystä lahjoittamalla.
+      </span>
+    ),
+    opensANewTab:
+      'Tämä linkki avaa uuden välilehden, edistymisesi tallentuu selaimeesi.',
+    keepGoingForFree: 'Jatka ilmaiseksi',
+    sort: {
+      order: 'Aika',
+      line: 'Linja',
+      name: 'Nimi',
+    },
+  },
 })
