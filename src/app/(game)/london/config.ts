@@ -178,7 +178,7 @@ export const CITY_NAME = 'london'
 
 export const LOCALE = 'en'
 
-export const MAP_FROM_DATA = true
+export const MAP_FROM_DATA = false
 
 export const GAUGE_COLORS = 'inverted'
 
@@ -195,4 +195,5 @@ const config: Config = {
 }
 
 export default config
+
 
