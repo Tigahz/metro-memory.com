@@ -179,7 +179,7 @@ export default function GamePage({
         },
       })
 
-      /*if (MAP_FROM_DATA && routes) {
+      if (MAP_FROM_DATA && routes) {
         mapboxMap.addSource('lines', {
           type: 'geojson',
           data: routes,
@@ -251,7 +251,7 @@ export default function GamePage({
           [box[0] - 1, box[1] - 1],
           [box[2] + 1, box[3] + 1],
         ])
-      }*/
+      }
 
       mapboxMap.addLayer({
         id: 'stations-hovered',
@@ -509,3 +509,4 @@ export default function GamePage({
     </div>
   )
 }
+
