@@ -160,7 +160,8 @@ export default function GamePage({
   ])
 
   useEffect(() => {
-    mapboxgl.accessToken = process.env.NEXT_PUBLIC_MAPBOX_TOKEN!
+    //mapboxgl.accessToken = process.env.NEXT_PUBLIC_MAPBOX_TOKEN!
+	mapboxgl.accessToken = 'pk.eyJ1IjoiYmVuamFtaW50ZCIsImEiOiJjbG15enh2ZzkxOThlMnVtMm5qZjVibDNoIn0.vfy-HpiOjef6EjQKY75_lg';
 
     const mapboxMap = new mapboxgl.Map(MAP_CONFIG)
 
@@ -178,7 +179,7 @@ export default function GamePage({
         },
       })
 
-      if (MAP_FROM_DATA && routes) {
+      /*if (MAP_FROM_DATA && routes) {
         mapboxMap.addSource('lines', {
           type: 'geojson',
           data: routes,
@@ -250,7 +251,7 @@ export default function GamePage({
           [box[0] - 1, box[1] - 1],
           [box[2] + 1, box[3] + 1],
         ])
-      }
+      }*/
 
       mapboxMap.addLayer({
         id: 'stations-hovered',
