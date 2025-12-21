@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { MapboxOptions } from 'mapbox-gl'
 import { Config, Line } from '@/lib/types'
 
-export const BEG_THRESHOLD = 0.2
+export const BEG_THRESHOLD = 0.5
 
 export const LINES: {
   [name: string]: Line
@@ -178,7 +178,7 @@ export const CITY_NAME = 'london'
 
 export const LOCALE = 'en'
 
-export const MAP_FROM_DATA = false
+export const MAP_FROM_DATA = true
 
 export const GAUGE_COLORS = 'inverted'
 
@@ -195,5 +195,6 @@ const config: Config = {
 }
 
 export default config
+
 
 
