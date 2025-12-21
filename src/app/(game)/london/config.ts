@@ -178,10 +178,13 @@ export const CITY_NAME = 'london'
 
 export const LOCALE = 'en'
 
+export const MAP_FROM_DATA = true
+
 export const GAUGE_COLORS = 'inverted'
 
 const config: Config = {
   GAUGE_COLORS,
+  MAP_FROM_DATA,
   LOCALE,
   STRIPE_LINK,
   CITY_NAME,
@@ -192,3 +195,4 @@ const config: Config = {
 }
 
 export default config
+
