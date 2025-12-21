@@ -385,7 +385,7 @@
       "properties": {
         "line": "HamburgUBahnU4",
         "name": "U4",
-        "color": "#FFFFFF",
+        "color": "#00AAAD",
         "order": 7
       }
     },
@@ -659,7 +659,7 @@
       "properties": {
         "line": "HamburgUBahnU4",
         "name": "U4",
-        "color": "#FFFFFF",
+        "color": "#00AAAD",
         "order": 7
       }
     },
@@ -818,7 +818,7 @@
       "properties": {
         "line": "HamburgUBahnU4",
         "name": "U4",
-        "color": "#FFFFFF",
+        "color": "#00AAAD",
         "order": 7
       }
     },
@@ -1056,7 +1056,7 @@
       "properties": {
         "line": "HamburgUBahnU4",
         "name": "U4",
-        "color": "#FFFFFF",
+        "color": "#00AAAD",
         "order": 7
       }
     },
