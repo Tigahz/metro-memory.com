@@ -35,112 +35,112 @@ export const LINES: {
     color: '#00782a',
     backgroundColor: '#00441b',
     textColor: '#fff',
-    order: 4,
+    order: 3,
   },
   HammersmithAndCity: {
     name: 'Hammersmith & City',
     color: '#f3a9bb',
     backgroundColor: '#b41f43',
     textColor: '#222',
-    order: 6,
+    order: 4,
   },
   Jubilee: {
     name: 'Jubilee',
     color: '#a0a5a9',
     backgroundColor: '#4c4f52',
     textColor: '#fff',
-    order: 7,
+    order: 5,
   },
   Metropolitan: {
     name: 'Metropolitan',
     color: '#9b0056',
     backgroundColor: '#4f002d',
     textColor: '#fff',
-    order: 8,
+    order: 6,
   },
   Northern: {
     name: 'Northern',
     color: '#000000',
     backgroundColor: '#444',
     textColor: '#fff',
-    order: 9,
+    order: 7,
   },
   Piccadilly: {
     name: 'Piccadilly',
     color: '#003688',
     backgroundColor: '#001e62',
     textColor: '#fff',
-    order: 11,
+    order: 8,
   },
   Victoria: {
     name: 'Victoria',
     color: '#0098d4',
     backgroundColor: '#005785',
     textColor: '#fff',
-    order: 12,
+    order: 9,
   },
   WaterlooAndCity: {
     name: 'Waterloo & City',
     color: '#84CAB3',
     backgroundColor: '#005b44',
     textColor: '#222',
-    order: 13,
+    order: 10,
   },
   DLR: {
     name: 'DLR',
     color: '#00afad',
     backgroundColor: '#006d6b',
     textColor: '#fff',
-    order: 14,
+    order: 11,
   },
   ElizabethLine: {
     name: 'Elizabeth Line',
     color: '#6950A1',
     backgroundColor: '#2b1d4d',
     textColor: '#fff',
-    order: 15,
+    order: 12,
   },
   Liberty: {
     name: 'Liberty Line',
     color: '#606667',
     backgroundColor: '#606667',
     textColor: '#fff',
-    order: 16,
+    order: 13,
   },
   Lioness: {
     name: 'Lioness Line',
     color: '#ef9600',
     backgroundColor: '#ef9600',
     textColor: '#fff',
-    order: 17,
+    order: 14,
   },
   Mildmay: {
     name: 'Mildmay Line',
     color: '#2774ae',
     backgroundColor: '#2774ae',
     textColor: '#fff',
-    order: 18,
+    order: 15,
   },
   Suffragette: {
     name: 'Suffragette Line',
     color: '#5ba763',
     backgroundColor: '#5ba763',
     textColor: '#fff',
-    order: 19,
+    order: 16,
   },
   Weaver: {
     name: 'Weaver Line',
     color: '#893b67',
     backgroundColor: '#893b67',
     textColor: '#fff',
-    order: 20,
+    order: 17,
   },
   Windrush: {
     name: 'Windrush Line',
     color: '#d22730',
     backgroundColor: '#d22730',
     textColor: '#fff',
-    order: 21,
+    order: 18,
   },
 }
 
@@ -184,6 +184,7 @@ export const GAUGE_COLORS = 'inverted'
 
 const config: Config = {
   GAUGE_COLORS,
+  MAP_FROM_DATA,
   LOCALE,
   STRIPE_LINK,
   CITY_NAME,
@@ -194,6 +195,7 @@ const config: Config = {
 }
 
 export default config
+
 
 
 
