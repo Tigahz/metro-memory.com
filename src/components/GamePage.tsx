@@ -166,10 +166,10 @@ export default function GamePage({
     const mapboxMap = new mapboxgl.Map(MAP_CONFIG)
 
     mapboxMap.on('load', () => {
-      mapboxMap.addSource('features', {
+      /*mapboxMap.addSource('features', {
         type: 'geojson',
         data: fc,
-      })
+      })*/
 
       mapboxMap.addSource('hovered', {
         type: 'geojson',
@@ -185,7 +185,7 @@ export default function GamePage({
           data: routes,
         })
 
-        /*mapboxMap.addLayer({
+        mapboxMap.addLayer({
           id: 'lines',
           type: 'line',
           paint: {
@@ -207,7 +207,7 @@ export default function GamePage({
           layout: {
             'line-sort-key': ['-', 100, ['get', 'order']],
           },
-        })*/
+        })
 
         mapboxMap.addLayer({
           type: 'circle',
@@ -509,5 +509,6 @@ export default function GamePage({
     </div>
   )
 }
+
 
 
