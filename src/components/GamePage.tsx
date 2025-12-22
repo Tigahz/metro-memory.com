@@ -207,7 +207,7 @@ export default function GamePage({
           layout: {
             'line-sort-key': ['-', 100, ['get', 'order']],
           },
-        })
+        })*/
 
         mapboxMap.addLayer({
           type: 'circle',
@@ -371,7 +371,7 @@ export default function GamePage({
         },
         source: 'hovered',
         filter: ['==', '$type', 'Point'],
-      })*/
+      })
 
       mapboxMap.once('data', () => {
         setMap((map) => (map === null ? mapboxMap : map))
@@ -509,6 +509,7 @@ export default function GamePage({
     </div>
   )
 }
+
 
 
 
