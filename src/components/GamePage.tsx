@@ -183,7 +183,7 @@ export default function GamePage({
         /*mapboxMap.addSource('lines', {
           type: 'geojson',
           data: routes,
-        })*/
+        })
 
         mapboxMap.addLayer({
           id: 'lines',
@@ -371,7 +371,7 @@ export default function GamePage({
         },
         source: 'hovered',
         filter: ['==', '$type', 'Point'],
-      })
+      })*/
 
       mapboxMap.once('data', () => {
         setMap((map) => (map === null ? mapboxMap : map))
@@ -509,6 +509,7 @@ export default function GamePage({
     </div>
   )
 }
+
 
 
 
