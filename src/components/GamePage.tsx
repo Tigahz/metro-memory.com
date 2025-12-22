@@ -207,7 +207,7 @@ export default function GamePage({
           layout: {
             'line-sort-key': ['-', 100, ['get', 'order']],
           },
-        })*/
+        })
 
         mapboxMap.addLayer({
           type: 'circle',
@@ -235,7 +235,7 @@ export default function GamePage({
               2,
             ],
           },
-        })
+        })*/
 
         const box = bbox(routes)
 
@@ -509,6 +509,7 @@ export default function GamePage({
     </div>
   )
 }
+
 
 
 
