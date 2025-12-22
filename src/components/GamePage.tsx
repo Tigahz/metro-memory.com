@@ -185,7 +185,7 @@ export default function GamePage({
           data: routes,
         })
 
-        mapboxMap.addLayer({
+        /*mapboxMap.addLayer({
           id: 'lines',
           type: 'line',
           paint: {
@@ -207,7 +207,7 @@ export default function GamePage({
           layout: {
             'line-sort-key': ['-', 100, ['get', 'order']],
           },
-        })
+        })*/
 
         mapboxMap.addLayer({
           type: 'circle',
@@ -509,4 +509,5 @@ export default function GamePage({
     </div>
   )
 }
+
 
