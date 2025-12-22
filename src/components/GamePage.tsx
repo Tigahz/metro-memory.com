@@ -166,10 +166,10 @@ export default function GamePage({
     const mapboxMap = new mapboxgl.Map(MAP_CONFIG)
 
     mapboxMap.on('load', () => {
-      mapboxMap.addSource('features', {
+      /*mapboxMap.addSource('features', {
         type: 'geojson',
         data: fc,
-      })
+      })*/
 
       mapboxMap.addSource('hovered', {
         type: 'geojson',
@@ -509,6 +509,7 @@ export default function GamePage({
     </div>
   )
 }
+
 
 
 
