@@ -171,13 +171,13 @@ export default function GamePage({
         data: fc,
       })*/
 
-      mapboxMap.addSource('hovered', {
+     /* mapboxMap.addSource('hovered', {
         type: 'geojson',
         data: {
           type: 'FeatureCollection',
           features: [],
         },
-      })
+      })*/
 
       if (MAP_FROM_DATA && routes) {
         /*mapboxMap.addSource('lines', {
@@ -253,7 +253,7 @@ export default function GamePage({
         ])
       }
 
-      mapboxMap.addLayer({
+      /*mapboxMap.addLayer({
         id: 'stations-hovered',
         type: 'circle',
         paint: {
@@ -371,7 +371,7 @@ export default function GamePage({
         },
         source: 'hovered',
         filter: ['==', '$type', 'Point'],
-      })
+      })*/
 
       mapboxMap.once('data', () => {
         setMap((map) => (map === null ? mapboxMap : map))
@@ -509,6 +509,7 @@ export default function GamePage({
     </div>
   )
 }
+
 
 
 
