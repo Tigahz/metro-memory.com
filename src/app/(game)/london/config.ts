@@ -159,31 +159,22 @@ export const METADATA: Metadata = {
 
 export const MAP_CONFIG: MapboxOptions = {
   container: 'map',
-  style: 'mapbox://styles/benjamintd/clnx0tw77005n01qsfyeya61u',
-  bounds: [
-    [-0.619997, 51.323273],
-    [0.35504, 51.68869],
-  ],
-  maxBounds: [
-    [-2.058488, 50.738554],
-    [1.841659, 52.201223],
-  ],
+  style: 'mapbox://styles/benjamintd/cls4h02hy019201qygvumc0nb', // generic
   minZoom: 6,
   fadeDuration: 50,
+  dragRotate: false,
 }
 
-export const STRIPE_LINK = 'https://buy.stripe.com/bIY8x3fiCgmC9bi8wx'
+export const STRIPE_LINK = 'https://buy.stripe.com/cN2aFb0nI1rI9bi5km'
 
 export const CITY_NAME = 'london'
 
 export const LOCALE = 'en'
 
-export const MAP_FROM_DATA = false
-
-export const GAUGE_COLORS = 'default'
+export const MAP_FROM_DATA = true
 
 const config: Config = {
-  GAUGE_COLORS,
+  GAUGE_COLORS: 'inverted',
   MAP_FROM_DATA,
   LOCALE,
   STRIPE_LINK,
@@ -195,9 +186,3 @@ const config: Config = {
 }
 
 export default config
-
-
-
-
-
-
