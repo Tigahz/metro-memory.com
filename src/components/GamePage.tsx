@@ -377,7 +377,7 @@ export default function GamePage({
         setMap((map) => (map === null ? mapboxMap : map))
       })
 
-      mapboxMap.once('idle', () => {
+      /*mapboxMap.once('idle', () => {
         setMap((map) => (map === null ? mapboxMap : map))
         mapboxMap.on('mousemove', ['stations-circles'], (e) => {
           if (e.features && e.features.length > 0) {
@@ -393,7 +393,7 @@ export default function GamePage({
         mapboxMap.on('mouseleave', ['stations-circles'], () => {
           setHoveredId(null)
         })
-      })
+      })*/
     })
 
     return () => {
@@ -509,6 +509,7 @@ export default function GamePage({
     </div>
   )
 }
+
 
 
 
