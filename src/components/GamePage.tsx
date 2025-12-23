@@ -166,21 +166,21 @@ export default function GamePage({
     const mapboxMap = new mapboxgl.Map(MAP_CONFIG)
 
     mapboxMap.on('load', () => {
-      /*mapboxMap.addSource('features', {
+      mapboxMap.addSource('features', {
         type: 'geojson',
         data: fc,
-      })*/
+      })
 
-     /* mapboxMap.addSource('hovered', {
+      mapboxMap.addSource('hovered', {
         type: 'geojson',
         data: {
           type: 'FeatureCollection',
           features: [],
         },
-      })*/
+      })
 
       if (MAP_FROM_DATA && routes) {
-        /*mapboxMap.addSource('lines', {
+        mapboxMap.addSource('lines', {
           type: 'geojson',
           data: routes,
         })
@@ -235,7 +235,7 @@ export default function GamePage({
               2,
             ],
           },
-        })*/
+        })
 
         const box = bbox(routes)
 
@@ -253,7 +253,7 @@ export default function GamePage({
         ])
       }
 
-      /*mapboxMap.addLayer({
+      mapboxMap.addLayer({
         id: 'stations-hovered',
         type: 'circle',
         paint: {
@@ -371,13 +371,13 @@ export default function GamePage({
         },
         source: 'hovered',
         filter: ['==', '$type', 'Point'],
-      })*/
+      })
 
       mapboxMap.once('data', () => {
         setMap((map) => (map === null ? mapboxMap : map))
       })
 
-      /*mapboxMap.once('idle', () => {
+      mapboxMap.once('idle', () => {
         setMap((map) => (map === null ? mapboxMap : map))
         mapboxMap.on('mousemove', ['stations-circles'], (e) => {
           if (e.features && e.features.length > 0) {
@@ -393,7 +393,7 @@ export default function GamePage({
         mapboxMap.on('mouseleave', ['stations-circles'], () => {
           setHoveredId(null)
         })
-      })*/
+      })
     })
 
     return () => {
@@ -509,6 +509,7 @@ export default function GamePage({
     </div>
   )
 }
+
 
 
 
