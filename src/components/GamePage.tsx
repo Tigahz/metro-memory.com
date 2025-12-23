@@ -201,7 +201,7 @@ export default function GamePage({
               3,
             ],
             'line-color': ['get', 'color'],
-            'line-offset': ['match', ['get', 'line'], '', 2, 0],
+            'line-offset': ['match', ['get', 'line'], '', 20, 0],
           },
           source: 'lines',
           layout: {
@@ -509,6 +509,7 @@ export default function GamePage({
     </div>
   )
 }
+
 
 
 
