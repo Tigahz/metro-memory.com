@@ -160,12 +160,20 @@ export const METADATA: Metadata = {
 export const MAP_CONFIG: MapboxOptions = {
   container: 'map',
   style: 'mapbox://styles/benjamintd/cls4h02hy019201qygvumc0nb', // generic
+  bounds: [
+    [-0.619997, 51.323273],
+    [0.35504, 51.68869],
+  ],
+  maxBounds: [
+    [-2.058488, 50.738554],
+    [1.841659, 52.201223],
+  ],
   minZoom: 6,
   fadeDuration: 50,
   dragRotate: false,
 }
 
-export const STRIPE_LINK = 'https://buy.stripe.com/cN2aFb0nI1rI9bi5km'
+export const STRIPE_LINK = 'https://buy.stripe.com/bIY8x3fiCgmC9bi8wx'
 
 export const CITY_NAME = 'london'
 
@@ -186,3 +194,4 @@ const config: Config = {
 }
 
 export default config
+
