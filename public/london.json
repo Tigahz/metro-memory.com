@@ -8529,9 +8529,25 @@
 						"line"
 					],
 					[
-						"Circle"
+						"Circle",
+						"Jubilee",
+						"Lioness",
+						"Picadilly",
+						"Mildmay"
 					],
-					5,
+					3,
+					0
+				],
+				"line-offset": [
+					"match",
+					[
+						"get",
+						"line"
+					],
+					[
+						"HammersmithAndCity"
+					],
+					-3,
 					0
 				]
 			},
@@ -8594,6 +8610,7 @@
 	"draft": false
 
 }
+
 
 
 
