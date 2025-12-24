@@ -8529,12 +8529,8 @@
 						"line"
 					],
 					[
-						"DLR",
-						"District",
-						"Piccadilly",
-						"Lioness",
-						"Metropolitan",
-						"Mildmay"
+						"Circle",
+						"Bakerloo"
 					],
 					2,
 					0
@@ -8599,4 +8595,5 @@
 	"draft": false
 
 }
+
 
