@@ -28,7 +28,7 @@ export const LINES: {
     color: '#ffd329',
     backgroundColor: '#7f6d00',
     textColor: '#222',
-    order: 2,
+    order: 8,
   },
   District: {
     name: 'District',
@@ -56,7 +56,7 @@ export const LINES: {
     color: '#9b0056',
     backgroundColor: '#4f002d',
     textColor: '#fff',
-    order: 6,
+    order: 2,
   },
   Northern: {
     name: 'Northern',
@@ -194,6 +194,7 @@ const config: Config = {
 }
 
 export default config
+
 
 
 
