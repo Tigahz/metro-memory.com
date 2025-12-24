@@ -8500,7 +8500,7 @@
 			"source-layer": "london-mask-aetu90"
 		},
 		{
-			"id": "traces-du-reseau-ferre",
+			"id": "routes-offset",
 			"type": "line",
 			"paint": {
 				"line-width": [
@@ -8539,6 +8539,43 @@
 					],
 					3,
 					0
+				]
+			},
+			"source": "composite",
+			"source-layer": "routes-2qktpi",
+			"layout": {
+				"line-sort-key": [
+					"-",
+					100,
+					[
+						"get",
+						"order"
+					]
+				]
+			}
+		},
+		{
+			"id": "routes-opacity",
+			"type": "line",
+			"paint": {
+				"line-width": [
+					"interpolate",
+					[
+						"linear"
+					],
+					[
+						"zoom"
+					],
+					8.763,
+					1.5,
+					15,
+					3,
+					22,
+					3
+				],
+				"line-color": [
+					"get",
+					"color"
 				],
 				"line-opacity": [
 					"match",
@@ -8618,6 +8655,7 @@
 	"draft": false
 
 }
+
 
 
 
