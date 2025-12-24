@@ -8539,6 +8539,22 @@
 					],
 					3,
 					0
+				],
+				"line-opacity": [
+					"match",
+					[
+						"get",
+						"line"
+					],
+					[
+						"Circle",
+						"Jubilee",
+						"Lioness",
+						"Picadilly",
+						"Mildmay",
+						"HammersmithAndCity",
+						"Liberty"
+					]
 				]
 			},
 			"source": "composite",
@@ -8600,6 +8616,7 @@
 	"draft": false
 
 }
+
 
 
 
