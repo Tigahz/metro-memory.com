@@ -8533,21 +8533,10 @@
 						"Jubilee",
 						"Lioness",
 						"Picadilly",
-						"Mildmay"
-					],
-					3,
-					0
-				],
-				"line-offset": [
-					"match",
-					[
-						"get",
-						"line"
-					],
-					[
+						"Mildmay",
 						"HammersmithAndCity"
 					],
-					-3,
+					3,
 					0
 				]
 			},
@@ -8610,6 +8599,7 @@
 	"draft": false
 
 }
+
 
 
 
