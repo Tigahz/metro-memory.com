@@ -14,13 +14,19 @@ export const LINES: {
     textColor: '#fff',
     order: 0,
   },
-
   Central: {
     name: 'Central',
     color: '#e32017',
     backgroundColor: '#7f0f00',
     textColor: '#fff',
     order: 1,
+  },
+  Circle: {
+    name: 'Circle',
+    color: '#ffd329',
+    backgroundColor: '#7f6d00',
+    textColor: '#222',
+    order: 2,
   },
   District: {
     name: 'District',
@@ -48,7 +54,7 @@ export const LINES: {
     color: '#9b0056',
     backgroundColor: '#4f002d',
     textColor: '#fff',
-    order: 2,
+    order: 8,
   },
   Northern: {
     name: 'Northern',
@@ -186,6 +192,7 @@ const config: Config = {
 }
 
 export default config
+
 
 
 
