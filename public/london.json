@@ -8529,8 +8529,7 @@
 						"line"
 					],
 					[
-						"Circle",
-						"Bakerloo"
+						"Circle"
 					],
 					2,
 					0
@@ -8595,5 +8594,6 @@
 	"draft": false
 
 }
+
 
 
