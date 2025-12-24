@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { MapboxOptions } from 'mapbox-gl'
 import { Config, Line } from '@/lib/types'
 
-export const BEG_THRESHOLD = 0.5
+export const BEG_THRESHOLD = 1.1
 
 export const LINES: {
   [name: string]: Line
@@ -21,14 +21,6 @@ export const LINES: {
     backgroundColor: '#7f0f00',
     textColor: '#fff',
     order: 1,
-  },
-
-  Circle: {
-    name: 'Circle',
-    color: '#ffd329',
-    backgroundColor: '#7f6d00',
-    textColor: '#222',
-    order: 8,
   },
   District: {
     name: 'District',
@@ -194,6 +186,7 @@ const config: Config = {
 }
 
 export default config
+
 
 
 
