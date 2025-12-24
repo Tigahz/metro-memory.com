@@ -8500,6 +8500,57 @@
 			"source-layer": "london-mask-aetu90"
 		},
 		{
+			"id": "traces-du-reseau-ferre",
+			"type": "line",
+			"paint": {
+				"line-width": [
+					"interpolate",
+					[
+						"linear"
+					],
+					[
+						"zoom"
+					],
+					8.763,
+					1.5,
+					15,
+					3,
+					22,
+					3
+				],
+				"line-color": [
+					"get",
+					"color"
+				],
+				"line-offset": [
+					"match",
+					[
+						"get",
+						"line"
+					],
+					[
+						"DLR",
+						"Circle",
+						"Overground"
+					],
+					2,
+					0
+				]
+			},
+			"source": "composite",
+			"source-layer": "routes-2qktpi",
+			"layout": {
+				"line-sort-key": [
+					"-",
+					100,
+					[
+						"get",
+						"order"
+					]
+				]
+			}
+		},
+		{
 			"type": "circle",
 			"source": "composite",
 			"id": "emplacement-des-gares",
@@ -8543,4 +8594,5 @@
 	"visibility": "private",
 	"protected": false,
 	"draft": false
+
 }
