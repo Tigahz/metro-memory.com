@@ -1,27 +1,27 @@
-import paris from '@/app/(game)/paris/opengraph-image.jpg'
-import london from '@/app/(game)/london/opengraph-image.jpg'
-import berlin from '@/app/(game)/berlin/opengraph-image.jpg'
-import ny from '@/app/(game)/ny/opengraph-image.jpg'
-import wien from '@/app/(game)/wien/opengraph-image.jpg'
-import dc from '@/app/(game)/dc/opengraph-image.jpg'
-import madrid from '@/app/(game)/madrid/opengraph-image.jpg'
-import seoul from '@/app/(game)/seoul/opengraph-image.jpg'
 import barcelona from '@/app/(game)/barcelona/opengraph-image.jpg'
-import mexicoCity from '@/app/(game)/mexico-city/opengraph-image.jpg'
-import istanbul from '@/app/(game)/istanbul/opengraph-image.jpg'
-import tokyo from '@/app/(game)/tokyo/opengraph-image.jpg'
-import stockholm from '@/app/(game)/stockholm/opengraph-image.jpg'
-import singapore from '@/app/(game)/singapore/opengraph-image.jpg'
-import montreal from '@/app/(game)/montreal/opengraph-image.jpg'
-import chicago from '@/app/(game)/chicago/opengraph-image.jpg'
+import berlin from '@/app/(game)/berlin/opengraph-image.jpg'
 import boston from '@/app/(game)/boston/opengraph-image.jpg'
-import hamburg from '@/app/(game)/hamburg/opengraph-image.jpg'
-import muenchen from '@/app/(game)/muenchen/opengraph-image.jpg'
-import potsdam from '@/app/(game)/potsdam/opengraph-image.jpg'
-import karlsruhe from '@/app/(game)/karlsruhe/opengraph-image.jpg'
-import dresden from '@/app/(game)/dresden/opengraph-image.jpg'
 import budapest from '@/app/(game)/budapest/opengraph-image.jpg'
-
+import chicago from '@/app/(game)/chicago/opengraph-image.jpg'
+import dc from '@/app/(game)/dc/opengraph-image.jpg'
+import dresden from '@/app/(game)/dresden/opengraph-image.jpg'
+import hamburg from '@/app/(game)/hamburg/opengraph-image.jpg'
+import helsinki from '@/app/(game)/helsinki/opengraph-image.jpg'
+import istanbul from '@/app/(game)/istanbul/opengraph-image.jpg'
+import karlsruhe from '@/app/(game)/karlsruhe/opengraph-image.jpg'
+import london from '@/app/(game)/london/opengraph-image.jpg'
+import madrid from '@/app/(game)/madrid/opengraph-image.jpg'
+import mexicoCity from '@/app/(game)/mexico-city/opengraph-image.jpg'
+import montreal from '@/app/(game)/montreal/opengraph-image.jpg'
+import muenchen from '@/app/(game)/muenchen/opengraph-image.jpg'
+import ny from '@/app/(game)/ny/opengraph-image.jpg'
+import paris from '@/app/(game)/paris/opengraph-image.jpg'
+import potsdam from '@/app/(game)/potsdam/opengraph-image.jpg'
+import seoul from '@/app/(game)/seoul/opengraph-image.jpg'
+import singapore from '@/app/(game)/singapore/opengraph-image.jpg'
+import stockholm from '@/app/(game)/stockholm/opengraph-image.jpg'
+import tokyo from '@/app/(game)/tokyo/opengraph-image.jpg'
+import wien from '@/app/(game)/wien/opengraph-image.jpg'
 
 import { StaticImageData } from 'next/image'
 
@@ -148,6 +148,11 @@ export const cities: ICity[] = [
     name: 'Budapest',
     image: budapest,
     link: '/budapest',
+  },
+  {
+    name: 'Helsinki',
+    image: helsinki,
+    link: '/helsinki',
   },
   // {
   //   name: 'Vancouver',
