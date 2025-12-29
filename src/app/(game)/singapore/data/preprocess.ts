@@ -1,7 +1,7 @@
-import * as path from 'path'
-import { groupBy, mapValues, sortBy, uniqBy } from 'lodash'
-import { promises as fs } from 'fs'
 import Color from 'color'
+import { promises as fs } from 'fs'
+import { groupBy, mapValues, sortBy, uniqBy } from 'lodash'
+import * as path from 'path'
 
 const Bun = {
   file(path: string) {
@@ -26,7 +26,7 @@ const main = async () => {
   const availableLines = new Set(
     routes
       .map((route: any) => route.live_line_code)
-      .filter((code: string) => code.includes('SingaporeMRT')),
+      .filter((code: string) => code.includes('SingaporeMRT') || code.includes('SingaporeLRT')),
   )
 
   const featuresRoutes = routes
