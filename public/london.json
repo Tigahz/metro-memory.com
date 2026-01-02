@@ -8530,12 +8530,6 @@
 					],
 					[
 						"Circle",
-						"Jubilee",
-						"Lioness",
-						"Picadilly",
-						"Mildmay",
-						"HammersmithAndCity",
-						"Liberty"
 					],
 					3,
 					0
@@ -8585,12 +8579,6 @@
 					],
 					[
 						"Circle",
-						"Jubilee",
-						"Lioness",
-						"Picadilly",
-						"Mildmay",
-						"HammersmithAndCity",
-						"Liberty"
 					],
 					0,
 					1
@@ -8655,6 +8643,7 @@
 	"draft": false
 
 }
+
 
 
 
